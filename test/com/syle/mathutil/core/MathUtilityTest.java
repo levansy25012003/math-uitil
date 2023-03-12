@@ -26,7 +26,7 @@ public class MathUtilityTest {
         Assert.assertEquals(6, MathUtilTest.getFactorial(3));   // tui mún 3! == 6
         Assert.assertEquals(24, MathUtilTest.getFactorial(4));  // tui mún 4! == 24
         Assert.assertEquals(120, MathUtilTest.getFactorial(5)); // tui mún 5! == 120
-        Assert.assertEquals(720, MathUtilTest.getFactorial(6)); // tui mún 6! == 720
+        Assert.assertEquals(72, MathUtilTest.getFactorial(6)); // tui mún 6! == 720
          
     }
     
